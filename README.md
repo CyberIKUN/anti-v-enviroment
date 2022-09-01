@@ -3,7 +3,7 @@
 环境里仅安装了360和火绒，可以用来上传木马，测试免杀，为了更贴近真实环境，大家有什么想法的，可以在issues中提建议。
 ## 怎么使用
 
-1. 🎈百度网盘链接：https://pan.baidu.com/s/1dML7DufP6TdsUHYDUoN0Kg?pwd=1234 提取码：1234（11多G）
+1. 🎈链接：https://pan.baidu.com/s/1Vf3i8PZcoECJUBrgmTaJpQ?pwd=1234 提取码：1234（11.79G） 
 2. 🕐账号/密码：admin/admin
 3. 🤖下载解压
 4. 🥦使用VMware打开目录中的vmx文件
